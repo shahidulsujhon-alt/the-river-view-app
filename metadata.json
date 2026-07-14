@@ -1,0 +1,6 @@
+{
+  "name": "The UN River View Financial Management",
+  "description": "Modern financial management application for the UN River View construction project, managing deposits, withdrawals, expenses, reports, and administrative approvals with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

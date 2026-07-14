@@ -1,0 +1,17 @@
+{
+  "users": [],
+  "deposits": [],
+  "withdrawals": [],
+  "expenses": [],
+  "activityLogs": [
+    {
+      "id": "log-init",
+      "date": "2026-07-14T04:30:22.895Z",
+      "adminName": "System",
+      "action": "Portal initialized",
+      "remarks": "Secure asset management system initialized with Admin credentials."
+    }
+  ],
+  "notifications": [],
+  "sharePrice": 50000
+}
